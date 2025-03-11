@@ -1,0 +1,28 @@
+authors:
+  - given-names: Reetika
+    family-names: Sarkar
+    email: rsarkar@uncg.edu
+    name-particle: Reetika
+    affiliation: >-
+      Department of Mathematics and Statistics, University
+      of North Carolina at Greensboro
+  - given-names: Jianping
+    family-names: Sun
+    affiliation: >-
+      Department of Mathematics and Statistics, University
+      of North Carolina at Greensboro
+identifiers:
+  - type: url
+    value: >-
+      https://www.mdpi.com/2227-7390/12/17/2705
+    description: >-
+      Improved Apriori Method for Safety Signal Detection Using Post-Marketing Clinical Data
+repository-code: 'https://github.com/rsarkar2/improvedApriori_RPackage'
+abstract: >-
+  R package to identify frequently co-occurring drug/vaccine and adverse event (AE) pairs 
+  from safety datasets using either the classical Apriori method ("Confidence" as second 
+  hyperparameter) or an improved Apriori method (using "ROR", "RR", or "PRR" as the second 
+  hyperparameter
+keywords:
+  - data mining
+  - safety signal detection
